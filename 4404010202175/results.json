@@ -10,8 +10,9 @@
             "4404009310063": 150
         },
         "is_final": 1,
-        "total_non_valid": 148,
-        "total_valid": 2704
+        "non_valid_votes": 148,
+        "registered_voters": 10278,
+        "valid_votes": 2704
     },
     "10": {
         "candidate_total": {
@@ -23,8 +24,9 @@
             "4404010208121": 239
         },
         "is_final": 1,
-        "total_non_valid": 115,
-        "total_valid": 3041
+        "non_valid_votes": 115,
+        "registered_voters": 11461,
+        "valid_votes": 3041
     },
     "11": {
         "candidate_total": {
@@ -35,8 +37,9 @@
             "4404010208024": 955
         },
         "is_final": 1,
-        "total_non_valid": 185,
-        "total_valid": 2402
+        "non_valid_votes": 185,
+        "registered_voters": 11289,
+        "valid_votes": 2402
     },
     "12": {
         "candidate_total": {
@@ -47,8 +50,9 @@
             "4404010208042": 108
         },
         "is_final": 1,
-        "total_non_valid": 169,
-        "total_valid": 2322
+        "non_valid_votes": 169,
+        "registered_voters": 11245,
+        "valid_votes": 2322
     },
     "13": {
         "candidate_total": {
@@ -59,8 +63,9 @@
             "4404010207905": 192
         },
         "is_final": 1,
-        "total_non_valid": 123,
-        "total_valid": 2307
+        "non_valid_votes": 123,
+        "registered_voters": 9898,
+        "valid_votes": 2307
     },
     "14": {
         "candidate_total": {
@@ -72,8 +77,9 @@
             "4404010207917": 382
         },
         "is_final": 1,
-        "total_non_valid": 189,
-        "total_valid": 2711
+        "non_valid_votes": 189,
+        "registered_voters": 10865,
+        "valid_votes": 2711
     },
     "15": {
         "candidate_total": {
@@ -85,8 +91,9 @@
             "4404010207834": 338
         },
         "is_final": 1,
-        "total_non_valid": 156,
-        "total_valid": 2684
+        "non_valid_votes": 156,
+        "registered_voters": 11114,
+        "valid_votes": 2684
     },
     "16": {
         "candidate_total": {
@@ -98,8 +105,9 @@
             "4404010207871": 1364
         },
         "is_final": 1,
-        "total_non_valid": 146,
-        "total_valid": 2699
+        "non_valid_votes": 146,
+        "registered_voters": 10473,
+        "valid_votes": 2699
     },
     "17": {
         "candidate_total": {
@@ -111,8 +119,9 @@
             "4404010207822": 694
         },
         "is_final": 1,
-        "total_non_valid": 232,
-        "total_valid": 2856
+        "non_valid_votes": 232,
+        "registered_voters": 11983,
+        "valid_votes": 2856
     },
     "18": {
         "candidate_total": {
@@ -123,8 +132,9 @@
             "4404011222194": 511
         },
         "is_final": 1,
-        "total_non_valid": 177,
-        "total_valid": 2420
+        "non_valid_votes": 177,
+        "registered_voters": 12017,
+        "valid_votes": 2420
     },
     "19": {
         "candidate_total": {
@@ -136,8 +146,9 @@
             "4404011222536": 231
         },
         "is_final": 1,
-        "total_non_valid": 132,
-        "total_valid": 2312
+        "non_valid_votes": 132,
+        "registered_voters": 10293,
+        "valid_votes": 2312
     },
     "2": {
         "candidate_total": {
@@ -149,8 +160,9 @@
             "4404009309704": 366
         },
         "is_final": 1,
-        "total_non_valid": 154,
-        "total_valid": 2791
+        "non_valid_votes": 154,
+        "registered_voters": 11812,
+        "valid_votes": 2791
     },
     "20": {
         "candidate_total": {
@@ -161,8 +173,9 @@
             "4404011222072": 963
         },
         "is_final": 1,
-        "total_non_valid": 202,
-        "total_valid": 2742
+        "non_valid_votes": 202,
+        "registered_voters": 11206,
+        "valid_votes": 2742
     },
     "21": {
         "candidate_total": {
@@ -173,8 +186,9 @@
             "4404011222237": 410
         },
         "is_final": 1,
-        "total_non_valid": 217,
-        "total_valid": 2695
+        "non_valid_votes": 217,
+        "registered_voters": 12744,
+        "valid_votes": 2695
     },
     "22": {
         "candidate_total": {
@@ -187,8 +201,9 @@
             "4404011222373": 113
         },
         "is_final": 1,
-        "total_non_valid": 194,
-        "total_valid": 2278
+        "non_valid_votes": 194,
+        "registered_voters": 10411,
+        "valid_votes": 2278
     },
     "23": {
         "candidate_total": {
@@ -200,8 +215,9 @@
             "4404011222326": 350
         },
         "is_final": 1,
-        "total_non_valid": 218,
-        "total_valid": 2926
+        "non_valid_votes": 218,
+        "registered_voters": 12503,
+        "valid_votes": 2926
     },
     "24": {
         "candidate_total": {
@@ -213,8 +229,9 @@
             "4404011222289": 237
         },
         "is_final": 1,
-        "total_non_valid": 147,
-        "total_valid": 3094
+        "non_valid_votes": 147,
+        "registered_voters": 11489,
+        "valid_votes": 3094
     },
     "25": {
         "candidate_total": {
@@ -224,8 +241,9 @@
             "4404010207720": 1162
         },
         "is_final": 1,
-        "total_non_valid": 222,
-        "total_valid": 2504
+        "non_valid_votes": 222,
+        "registered_voters": 12776,
+        "valid_votes": 2504
     },
     "3": {
         "candidate_total": {
@@ -237,8 +255,9 @@
             "4404009310075": 147
         },
         "is_final": 1,
-        "total_non_valid": 217,
-        "total_valid": 2919
+        "non_valid_votes": 217,
+        "registered_voters": 11208,
+        "valid_votes": 2919
     },
     "4": {
         "candidate_total": {
@@ -249,8 +268,9 @@
             "4404009309765": 267
         },
         "is_final": 1,
-        "total_non_valid": 159,
-        "total_valid": 2681
+        "non_valid_votes": 159,
+        "registered_voters": 11007,
+        "valid_votes": 2681
     },
     "5": {
         "candidate_total": {
@@ -261,8 +281,9 @@
             "4404009309818": 668
         },
         "is_final": 1,
-        "total_non_valid": 138,
-        "total_valid": 2443
+        "non_valid_votes": 138,
+        "registered_voters": 10089,
+        "valid_votes": 2443
     },
     "6": {
         "candidate_total": {
@@ -274,8 +295,9 @@
             "4404009310015": 271
         },
         "is_final": 1,
-        "total_non_valid": 224,
-        "total_valid": 2341
+        "non_valid_votes": 224,
+        "registered_voters": 9520,
+        "valid_votes": 2341
     },
     "7": {
         "candidate_total": {
@@ -287,8 +309,9 @@
             "4404009309992": 554
         },
         "is_final": 1,
-        "total_non_valid": 194,
-        "total_valid": 2369
+        "non_valid_votes": 194,
+        "registered_voters": 9793,
+        "valid_votes": 2369
     },
     "8": {
         "candidate_total": {
@@ -299,8 +322,9 @@
             "4404009309807": 250
         },
         "is_final": 1,
-        "total_non_valid": 178,
-        "total_valid": 2895
+        "non_valid_votes": 178,
+        "registered_voters": 10205,
+        "valid_votes": 2895
     },
     "9": {
         "candidate_total": {
@@ -311,7 +335,8 @@
             "4404009309777": 696
         },
         "is_final": 1,
-        "total_non_valid": 352,
-        "total_valid": 5838
+        "non_valid_votes": 352,
+        "registered_voters": 28174,
+        "valid_votes": 5838
     }
 }
